@@ -1,0 +1,164 @@
+#+title: Governmental Policy Impacts on Private Sectors 
+#+author: Paisan Khonjumpa <pkhonjum@gmail.com>
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+
+* Preface
+Please watch these two inspiring videos.
+** A Man Who Knew Infinity
+
+https://www.youtube.com/watch?v=oXGm9Vlfx4w
+
+** A Beautiful Mind
+
+https://www.youtube.com/watch?v=aS_d0Ayjw4o
+   
+* Pre-Test Questions
+#+begin_src verbatim
+
+1. Which factor of governmental policy impact private sectors?
+	A) Taxation		B) Labour Laws
+	C) SEC Regulations	D) All
+
+2. Which one is a direct public spending policy?
+	A) Monetary Policy			B) Fiscal Policy
+	C) Import Control			D) Export Quota
+
+3. Which governmental policy impacts the most to the private enterpirses?
+	A) Mega-project Spendings	B) Rice Scheme/Subsidy Programme
+	C) Universal Healthcare		D) Social Security Programme
+
+4. Who are pressure groups to governmental policy?
+	A) Political parties		B) Labour Union
+	C) Chamber of Commerce		D) All
+
+5. What is a public policy externality for private enterprises?
+	A) Investment Promotion		B) Free Treade Zone
+	C) Infrastructure Invesment	C) Bureaucratic Process
+
+6. What factor will discourage private business conducts?
+	A) Economic Rent Seeking	B) High quality Human Resources
+	C) Business Transparency	D) OSHA Implementations
+
+7. What is a "race to the bottom" economic policy?
+	A) Governmental deregulation 		B) Labour Cost Lowering
+	C) Environmental impact negligence 	D) All
+
+8. What is Quantitative Easing (QE)?
+	A) Monetary Policy		B) Central Bank Balance Sheet Expansion
+	C) Money Injection		D) All
+
+9. Why many people believe world hyper-inflation will not occure in near future?
+	A) Plentiful world production capcity		B) High unemployment worldwide
+	C) Business back to normal after pandemic ends 	D) All
+
+10. What is your perception of Thailand economic in 2022?
+	A) Speedy Recovery		B) No Change
+	C) Deterioate 			D) Uncertain
+
+
+#+end_src
+
+
+* Bretten Woods
+  
+Preparing to rebuild the international economic system while World War II was still being fought, 730 delegates from all 44 Allied nations gathered at the Mount Washington Hotel in Bretton Woods, New Hampshire, United States, for the United Nations Monetary and Financial Conference, also known as the Bretton Woods Conference.
+
+Rules for commercial and financial relations among the United States, Canada, Western European countries, Australia, and Japan
+
+** Monetary System Establishment
+
+*** Adoption of a monetary policy
+	Maintaining its external exchange rates within 1 percent by tying its currency to "Gold"
+	
+*** International Monetary Fund Founding
+	Ability of the International Monetary Fund (IMF) to bridge temporary imbalances of
+	
+*** World Commerce and Economic Cooperation
+	Address the lack of cooperation among other countries
+
+*** World Currency Exchange Rate
+Prevent competitive devaluation of the currencies
+
+** Importance
+	The establishement is a foundation for United Nations establishement in 1945; governing several international entities and institutions.	A few prominenet examples are:
+- United Nation Security Council
+- International Monetary Fund (IMF)  
+- World Bank
+- United Nations for Development Programme (UNDP)
+- General Agreement of Trade & Tariff (GATT) and later became World Trade Organization (WTO)
+- International Civil Aviaiton Organization (ICAO)
+- International Labour Organization (ILO)
+
+
+* Keynesian
+
+In the Keynesian view, aggregate demand does not necessarily equal the productive capacity of the economy. Instead, it is influenced by a host of factors – sometimes behaving erratically – affecting production, employment, and inflation.
+
+** Main Steam Implementations
+   
+Keynesian economics, as part of the neoclassical synthesis, served as the standard macroeconomic model in the developed nations during the later part of the Great Depression, World War II, and the post-war economic expansion (1945–1973).
+
+It lost some influence following the oil shock and resulting stagflation of the 1970s. Keynesian economics was later redeveloped as New Keynesian economics, becoming part of the contemporary new neoclassical synthesis, that forms one current-day theory on macroeconomics.
+
+The advent of the financial crisis of 2007–2008 sparked renewed interest in Keynesian thought.
+
+** Fiscal Policy & Private Sector Emphasize
+Keynesian economists generally argue that aggregate demand is volatile and unstable and that, consequently, a market economy often experiences inefficient macroeconomic outcomes – a recession, when demand is low, and inflation, when demand is high. Further, they argue that these economic fluctuations can be mitigated by economic policy responses coordinated between government and central bank.
+
+*** Fiscal policy actions taken by the government
+*** Monetary policy actions taken by the central bank
+
+Helping to stabilize economic output, inflation, and unemployment over the business cycle.
+
+*** Private Sector (Economy Market)
+	
+Keynesian economists generally advocate a market economy – predominantly private sector, but with an active role for government intervention during recessions and depressions.
+
+
+* Development Theories
+
+** Dependency Theory
+  
+Dependency theory is of the notion that resources flow from a "periphery" of poor and underdeveloped states to a "core" of wealthy states, enriching the latter at the expense of the former. It is a central contention of dependency theory that poor states are impoverished and rich ones enriched by the way poor states are integrated into the "world system". This theory was officially developed in the late 1960s following World War II, as scholars searched for the root issue in the lack of development in Latin America.
+
+** Modernization Theory
+   
+The theory arose as a reaction to modernization theory, an earlier theory of development which held that all societies progress through similar stages of development, that today's underdeveloped areas are thus in a similar situation to that of today's developed areas at some time in the past, and that, therefore, the task of helping the underdeveloped areas out of poverty is to accelerate them along this supposed common path of development, by various means such as investment, technology transfers, and closer integration into the world market. Dependency theory rejected this view, arguing that underdeveloped countries are not merely primitive versions of developed countries, but have unique features and structures of their own; and, importantly, are in the situation of being the weaker members in a world market economy.
+
+** Dependency Theory Pragmatism
+
+Some writers have argued for its continuing relevance as a conceptual orientation to the global division of wealth. Dependency theorists can typically be divided into two categories: liberal reformists and neo-Marxists. Liberal reformists typically advocate for targeted policy interventions, while the neo-Marxists believe in a command-centered economy.
+
+Reference https://en.wikipedia.org/wiki/Dependency_theory
+
+
+
+* Nash
+
+John Forbes Nash Jr. (June 13, 1928 – May 23, 2015) was an American mathematician who made fundamental contributions to differential geometry, game theory, and the study of partial differential equations. Nash's work has provided insight into the factors that govern chance and decision-making inside complex systems found in everyday life.
+
+His theories are widely used in economics. Serving as a senior research mathematician at Princeton University during the later part of his life, he shared the 1994 Nobel Memorial Prize in Economic Sciences with game theorists Reinhard Selten and John Harsanyi. In 2015, he also shared the Abel Prize with Louis Nirenberg for his work on nonlinear partial differential equations. John Nash is the only person to be awarded both the Nobel Memorial Prize in Economic Sciences and the Abel Prize.
+
+In 1959, Nash began showing clear signs of mental illness, and spent several years at psychiatric hospitals being treated for schizophrenia. After 1970, his condition slowly improved, allowing him to return to academic work by the mid-1980s. His struggles with his illness and his recovery became the basis for Sylvia Nasar's biography, A Beautiful Mind, as well as a film of the same name starring Russell Crowe as Nash.
+
+On May 23, 2015, Nash and his wife Alicia died in a car crash while riding in a taxi on the New Jersey Turnpike.
+
+
+Reference https://en.wikipedia.org/wiki/John_Forbes_Nash_Jr.
+* Quantitative Easing (QE)
+
+** What Is Quantitative Easing (QE)?
+Quantitative easing (QE) is a form of unconventional monetary policy in which a central bank purchases longer-term securities from the open market in order to increase the money supply and encourage lending and investment. Buying these securities adds new money to the economy, and also serves to lower interest rates by bidding up fixed-income securities. It also expands the central bank's balance sheet.
+
+When short-term interest rates are either at or approaching zero, the normal open market operations of a central bank, which target interest rates, are no longer effective. Instead, a central bank can target specified amounts of assets to purchase. Quantitative easing increases the money supply by purchasing asset
+
+** KEY TAKEAWAYS
+Quantitative easing (QE) is a form of monetary policy used by central banks as a method of quickly increasing the domestic money supply and spurring economic activity.
+
+Quantitative easing usually involves a country's central bank purchasing longer-term government bonds, as well as other types of assets, such as mortgage-backed securities (MBS).
+
+In response to the economic shutdown caused by the COVID-19 pandemic, on March 15, 2020, the U.S. Federal Reserve announced a quantitative easing plan of over $700 billion.1
+
+Then, on June 10, 2020, after a brief tapering effort, the Fed extended its program, committing to buy at least $80 billion a month in Treasuries and $40 billion in mortgage-backed securities, until further notice.
+
+Reference https://www.investopedia.com/terms/q/quantitative-easing.asp
